@@ -1,0 +1,5 @@
+install
+flask
+pandas
+numpy
+matplotlib 
